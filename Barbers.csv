@@ -1,0 +1,813 @@
+Day,Time,Service(s),Money,Tip,Take Home,Location,Date,Day of the Week
+Monday 9th June,13:30,None,0,,0,Marchmont,09/06/2025,Monday
+Monday 9th June,14:30,Student,22,,13.2,Marchmont,09/06/2025,Monday
+Monday 9th June,15:30,None,0,,0,Marchmont,09/06/2025,Monday
+Monday 9th June,16:00,OAP/Clipper,18,,10.8,Marchmont,09/06/2025,Monday
+Monday 9th June,17:30,None,0,,0,Marchmont,09/06/2025,Monday
+Tuesday 10th June,09:00,Gents,24,,14.4,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,09:45,OAP/Clipper,18,,10.8,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,10:15,OAP/Clipper,18,,10.8,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,11:30,High School,19,,11.4,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,12:15,Student,22,,13.2,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,13:15,None,0,,0,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,14:00,Gents,24,,14.4,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,15:00,Gents + Beard Trim,34,,20.4,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,16:30,Student,22,,13.2,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,17:00,Gents,24,,14.4,Marchmont,10/06/2025,Tuesday
+Tuesday 10th June,17:30,Gents,24,,14.4,Marchmont,10/06/2025,Tuesday
+Saturday 14th June,08:30,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,09:00,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,09:30,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,10:00,OAP/Clipper,18,,10.8,Marchmont,14/06/2025,Saturday
+Saturday 14th June,10:30,Kids,16,,9.6,Marchmont,14/06/2025,Saturday
+Saturday 14th June,11:00,High School,19,,11.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,12:00,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,12:30,Gents + Beard Trim,34,,20.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,13:30,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,14:00,High School,19,,11.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,15:00,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,15:30,Gents,24,,14.4,Marchmont,14/06/2025,Saturday
+Saturday 14th June,16:00,High School,19,,11.4,Marchmont,14/06/2025,Saturday
+Monday 16th June,13:15,None,0,,0,Marchmont,16/06/2025,Monday
+Monday 16th June,14:15,Student,22,,13.2,Marchmont,16/06/2025,Monday
+Monday 16th June,15:45,Gents,24,,14.4,Marchmont,16/06/2025,Monday
+Monday 16th June,16:30,OAP/Clipper + Beard Trim,28,,16.8,Marchmont,16/06/2025,Monday
+Monday 16th June,17:15,None,0,,0,Marchmont,16/06/2025,Monday
+Tuesday 17th June,09:30,Gents,24,,14.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,10:15,Gents,24,,14.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,10:45,OAP/Clipper,18,,10.8,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,11:30,OAP/Clipper,18,,10.8,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,12:30,None,0,,0,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,13:00,Gents,24,,14.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,14:00,Gents,24,,14.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,14:30,Student,22,,13.2,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,15:30,High School,19,,11.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,16:00,High School,19,,11.4,Marchmont,17/06/2025,Tuesday
+Tuesday 17th June,17:00,Gents,24,,14.4,Marchmont,17/06/2025,Tuesday
+Tuesday 24th June,09:00,None,0,,0,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,10:00,OAP/Clipper,18,,10.8,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,11:00,Gents,24,,14.4,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,12:00,Student,22,,13.2,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,12:30,Gents,24,,14.4,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,13:30,None,0,,0,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,14:00,OAP/Clipper,18,,10.8,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,15:00,Gents,24,,14.4,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,16:30,Student,22,,13.2,Marchmont,24/06/2025,Tuesday
+Tuesday 24th June,17:30,None,0,,0,Marchmont,24/06/2025,Tuesday
+Wednesday 25th June,13:30,Gents,24,,14.4,Marchmont,25/06/2025,Wednesday
+Wednesday 25th June,14:00,Gents,24,,14.4,Marchmont,25/06/2025,Wednesday
+Wednesday 25th June,15:00,Gents,24,,14.4,Marchmont,25/06/2025,Wednesday
+Wednesday 25th June,15:30,Gents,24,,14.4,Marchmont,25/06/2025,Wednesday
+Wednesday 25th June,16:30,None,0,,0,Marchmont,25/06/2025,Wednesday
+Wednesday 25th June,17:00,Gents,24,,14.4,Marchmont,25/06/2025,Wednesday
+Saturday 28th June,08:30,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,09:00,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,09:30,Gents + Beard Trim,34,,20.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,10:30,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,11:00,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,12:00,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,12:30,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,13:00,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,14:00,OAP/Clipper,18,,10.8,Marchmont,28/06/2025,Saturday
+Saturday 28th June,14:30,OAP/Clipper,18,,10.8,Marchmont,28/06/2025,Saturday
+Saturday 28th June,15:30,Gents,24,,14.4,Marchmont,28/06/2025,Saturday
+Saturday 28th June,16:00,Kids,16,,9.6,Marchmont,28/06/2025,Saturday
+Monday 30th June,13:00,None,0,,0,Marchmont,30/06/2025,Monday
+Monday 30th June,14:00,Gents,24,,14.4,Marchmont,30/06/2025,Monday
+Monday 30th June,15:00,Gents,24,,14.4,Marchmont,30/06/2025,Monday
+Monday 30th June,15:30,OAP/Clipper,18,,10.8,Marchmont,30/06/2025,Monday
+Monday 30th June,16:00,None,0,,0,Marchmont,30/06/2025,Monday
+Monday 30th June,17:00,Student,22,,13.2,Marchmont,30/06/2025,Monday
+Tuesday 1st July,09:00,Gents,24,,14.4,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,09:30,OAP/Clipper,18,,10.8,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,10:15,Student,22,,13.2,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,10:45,Gents,24,,14.4,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,11:45,None,0,,0,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,12:00,OAP/Clipper,18,,10.8,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,12:30,High School,19,,11.4,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,13:30,Gents,24,,14.4,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,14:00,Gents,24,,14.4,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,14:30,OAP/Clipper,18,,10.8,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,15:45,None,0,,0,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,16:00,Student,22,,13.2,Marchmont,01/07/2025,Tuesday
+Tuesday 1st July,17:00,Gents,24,,14.4,Marchmont,01/07/2025,Tuesday
+Tuesday 8th July,09:30,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,10:30,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,11:00,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,12:00,Student,22,,13.2,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,12:45,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,13:15,Student,22,,13.2,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,14:15,Student,22,,13.2,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,15:00,Student,22,,13.2,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,15:30,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,16:15,Gents + Beard Trim,34,,20.4,Marchmont,08/07/2025,Tuesday
+Tuesday 8th July,17:00,Gents,24,,14.4,Marchmont,08/07/2025,Tuesday
+Saturday 12th July,08:00,None,0,,0,Marchmont,12/07/2025,Saturday
+Saturday 12th July,09:00,Kids,16,,9.6,Marchmont,12/07/2025,Saturday
+Saturday 12th July,09:30,Gents,24,,14.4,Marchmont,12/07/2025,Saturday
+Saturday 12th July,10:30,Gents,24,,14.4,Marchmont,12/07/2025,Saturday
+Saturday 12th July,11:00,None,0,,0,Marchmont,12/07/2025,Saturday
+Saturday 12th July,12:00,Kids,16,,9.6,Marchmont,12/07/2025,Saturday
+Saturday 12th July,13:00,Gents,24,,14.4,Marchmont,12/07/2025,Saturday
+Saturday 12th July,14:30,Gents,24,,14.4,Marchmont,12/07/2025,Saturday
+Saturday 12th July,15:30,Gents,24,,14.4,Marchmont,12/07/2025,Saturday
+Saturday 12th July,16:00,None,0,,0,Marchmont,12/07/2025,Saturday
+Tuesday 15th July,09:00,OAP,18,2,12.8,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,10:00,Gents,24,,14.4,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,11:15,Gents,24,,14.4,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,12:10,Clipper,18,2,12.8,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,12:30,Gents,24,,14.4,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,13:00,Student,22,,13.2,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,13:45,Gents,24,3,17.4,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,14:30,OAP,18,1,11.8,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,15:00,None,0,,0,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,16:20,Kids,16,,9.6,Marchmont,15/07/2025,Tuesday
+Tuesday 15th July,17:30,Gents,24,,14.4,Marchmont,15/07/2025,Tuesday
+Monday 21st July,09:00,Gents,24,,14.4,Marchmont,21/07/2025,Monday
+Monday 21st July,10:00,None,0,,0,Marchmont,21/07/2025,Monday
+Monday 21st July,11:25,Student,22,,13.2,Marchmont,21/07/2025,Monday
+Monday 21st July,11:50,OAP,18,,10.8,Marchmont,21/07/2025,Monday
+Monday 21st July,12:00,None,0,,0,Marchmont,21/07/2025,Monday
+Monday 21st July,13:00,None,0,,0,Marchmont,21/07/2025,Monday
+Monday 21st July,14:00,None,0,,0,Marchmont,21/07/2025,Monday
+Monday 21st July,15:30,Gents + Beard Trim,34,,20.4,Marchmont,21/07/2025,Monday
+Monday 21st July,16:00,Gents,24,,14.4,Marchmont,21/07/2025,Monday
+Monday 21st July,16:30,Gents,24,,14.4,Marchmont,21/07/2025,Monday
+Monday 21st July,17:00,Clipper,18,1,11.8,Marchmont,21/07/2025,Monday
+Monday 21st July,17:10,Kids,16,,9.6,Marchmont,21/07/2025,Monday
+Monday 21st July,17:30,Kids,16,4,13.6,Marchmont,21/07/2025,Monday
+Tuesday 22nd July,09:15,Gents,24,,14.4,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,10:00,Gents,24,,14.4,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,10:45,OAP,18,,10.8,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,11:45,OAP,18,2,12.8,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,12:30,Beard Trim,10,,6,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,13:20,Student,22,,13.2,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,13:55,Student,22,,13.2,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,14:55,None,0,,0,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,15:15,Gents,24,2,16.4,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,16:00,Gents,24,,14.4,Marchmont,22/07/2025,Tuesday
+Tuesday 22nd July,17:15,Student,22,,13.2,Marchmont,22/07/2025,Tuesday
+Friday 25th July,09:30,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,10:15,Gents + Beard Trim,34,,20.4,Marchmont,25/07/2025,Friday
+Friday 25th July,10:45,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,11:10,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,11:40,Gents,24,1,15.4,Marchmont,25/07/2025,Friday
+Friday 25th July,12:15,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,12:45,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,13:15,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Friday 25th July,14:30,High School,19,,11.4,Marchmont,25/07/2025,Friday
+Friday 25th July,15:00,High School,19,1,12.4,Marchmont,25/07/2025,Friday
+Friday 25th July,15:30,High School,19,,11.4,Marchmont,25/07/2025,Friday
+Friday 25th July,16:30,None,0,,0,Marchmont,25/07/2025,Friday
+Friday 25th July,17:00,Gents,24,,14.4,Marchmont,25/07/2025,Friday
+Saturday 26th July,08:00,None,0,,0,Marchmont,26/07/2025,Saturday
+Saturday 26th July,09:00,Gents + Beard Trim,34,,20.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,09:30,Gents,24,1,15.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,10:00,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,10:20,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,10:40,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,11:10,OAP,18,2,12.8,Marchmont,26/07/2025,Saturday
+Saturday 26th July,12:40,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,13:00,None,0,,0,Marchmont,26/07/2025,Saturday
+Saturday 26th July,14:00,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,14:30,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,15:00,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Saturday 26th July,15:30,Kids,16,,9.6,Marchmont,26/07/2025,Saturday
+Saturday 26th July,16:00,Gents,24,,14.4,Marchmont,26/07/2025,Saturday
+Tuesday 29th July,09:00,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,10:00,Kids,16,2,11.6,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,11:15,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,12:45,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,13:45,None,0,,0,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,14:15,Gents + Beard Trim,34,5,25.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,15:00,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,16:20,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Tuesday 29th July,17:30,Gents,24,,14.4,Marchmont,29/07/2025,Tuesday
+Wednesday 6th August,09:00,None,0,,0,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,10:00,Gents,24,,14.4,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,10:30,Student,22,,13.2,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,11:15,Student,22,,13.2,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,12:00,Gents,24,1,15.4,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,13:00,High School,19,,11.4,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,14:00,OAP,18,,10.8,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,14:45,OAP,18,,10.8,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,15:20,Student,22,,13.2,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,15:50,OAP,18,,10.8,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,16:00,None,0,,0,Marchmont,06/08/2025,Wednesday
+Wednesday 6th August,17:15,Gents,24,,14.4,Marchmont,06/08/2025,Wednesday
+Thursday 7th August,13:00,None,0,,0,Marchmont,07/08/2025,Thursday
+Thursday 7th August,14:00,None,0,,0,Marchmont,07/08/2025,Thursday
+Thursday 7th August,15:00,Gents,24,1,15.4,Marchmont,07/08/2025,Thursday
+Thursday 7th August,16:45,Gents,24,1,15.4,Marchmont,07/08/2025,Thursday
+Thursday 7th August,17:00,None,0,,0,Marchmont,07/08/2025,Thursday
+Friday 8th August,09:00,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,09:30,High School,19,,11.4,Marchmont,08/08/2025,Friday
+Friday 8th August,10:30,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,11:00,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,12:00,High School,19,,11.4,Marchmont,08/08/2025,Friday
+Friday 8th August,12:30,Friend,15,,9,Marchmont,08/08/2025,Friday
+Friday 8th August,13:30,Student,22,,13.2,Marchmont,08/08/2025,Friday
+Friday 8th August,14:00,High School,19,,11.4,Marchmont,08/08/2025,Friday
+Friday 8th August,14:30,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,15:00,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,16:00,Kids,16,4,13.6,Marchmont,08/08/2025,Friday
+Friday 8th August,16:45,Gents,24,,14.4,Marchmont,08/08/2025,Friday
+Friday 8th August,17:45,None,0,,0,Marchmont,08/08/2025,Friday
+Saturday 9th August,08:45,Gents,24,2,16.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,09:20,High School,19,,11.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,10:00,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,10:45,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,11:15,High School,19,,11.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,12:00,Gents,24,4,18.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,13:00,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,13:30,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,14:00,High School,19,,11.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,14:30,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,15:00,Gents,24,1,15.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,15:30,Kids,16,,9.6,Marchmont,09/08/2025,Saturday
+Saturday 9th August,16:00,Gents,24,,14.4,Marchmont,09/08/2025,Saturday
+Saturday 9th August,16:30,Gents,24,1,15.4,Marchmont,09/08/2025,Saturday
+Monday 11th August,09:50,Kids,16,,9.6,Marchmont,11/08/2025,Monday
+Monday 11th August,10:20,OAP,18,2,12.8,Marchmont,11/08/2025,Monday
+Monday 11th August,10:40,Kids,16,,9.6,Marchmont,11/08/2025,Monday
+Monday 11th August,11:20,OAP,18,2,12.8,Marchmont,11/08/2025,Monday
+Monday 11th August,12:30,Gents,24,,14.4,Marchmont,11/08/2025,Monday
+Monday 11th August,13:30,Student,22,,13.2,Marchmont,11/08/2025,Monday
+Monday 11th August,14:30,None,0,,0,Marchmont,11/08/2025,Monday
+Monday 11th August,15:40,Gents,24,,14.4,Marchmont,11/08/2025,Monday
+Monday 11th August,16:30,Clipper,18,,10.8,Marchmont,11/08/2025,Monday
+Monday 11th August,16:45,Gents,24,,14.4,Marchmont,11/08/2025,Monday
+Monday 11th August,17:15,Gents,24,,14.4,Marchmont,11/08/2025,Monday
+Wednesday 13th August,09:45,Gents,24,6,20.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,10:15,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,11:00,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,11:45,Student,22,,13.2,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,12:15,Gents,24,3,17.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,12:45,Clipper + Beard Trim,28,,16.8,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,13:30,Gents,24,6,20.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,14:00,Student,22,,13.2,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,14:30,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,15:00,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,15:30,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,16:00,Clipper,18,2,12.8,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,16:15,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,16:45,Gents,24,,14.4,Marchmont,13/08/2025,Wednesday
+Wednesday 13th August,17:15,High School,19,,11.4,Marchmont,13/08/2025,Wednesday
+Saturday 16th August,08:30,Gents,24,,14.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,09:00,High School,19,,11.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,10:15,Gents,24,2,16.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,10:35,Gents,24,,14.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,11:00,Gents,24,,14.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,11:30,High School,19,,11.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,12:45,Gents,24,,14.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,13:45,None,0,,0,Marchmont,16/08/2025,Saturday
+Saturday 16th August,14:00,Gents,24,,14.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,14:45,High School,19,,11.4,Marchmont,16/08/2025,Saturday
+Saturday 16th August,15:45,None,0,,0,Marchmont,16/08/2025,Saturday
+Saturday 16th August,16:45,None,0,,0,Marchmont,16/08/2025,Saturday
+Monday 18th August,13:15,None,0,,0,Marchmont,18/08/2025,Monday
+Monday 18th August,14:55,Gents + Beard Trim,34,,20.4,Marchmont,18/08/2025,Monday
+Monday 18th August,15:15,None,0,,0,Marchmont,18/08/2025,Monday
+Monday 18th August,16:15,Gents,24,,14.4,Marchmont,18/08/2025,Monday
+Monday 18th August,17:00,High School,19,,11.4,Marchmont,18/08/2025,Monday
+Wednesday 20th August,09:00,Gents,24,,14.4,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,10:20,Gents,24,,14.4,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,11:40,High School,19,,11.4,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,12:50,OAP,18,2,12.8,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,13:20,Gents,24,,14.4,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,14:20,None,0,,0,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,15:45,Gents,24,2,16.4,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,16:20,None,0,,0,Marchmont,20/08/2025,Wednesday
+Wednesday 20th August,17:20,None,0,,0,Marchmont,20/08/2025,Wednesday
+Saturday 23rd August,09:00,Kids,16,,9.6,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,09:20,Gents,24,,14.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,10:00,High School,19,,11.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,11:00,Clipper,18,2,12.8,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,12:40,Gents,24,,14.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,13:30,High School,19,,11.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,14:15,Gents,24,,14.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,14:50,Gents,24,,14.4,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,15:50,None,0,,0,Marchmont,23/08/2025,Saturday
+Saturday 23rd August,16:10,Gents,24,,14.4,Marchmont,23/08/2025,Saturday
+Thursday 12th June,09:00,None,0,,0,Tollcross,12/06/2025,Thursday
+Thursday 12th June,10:00,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,11:00,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,12:00,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,12:30,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,13:00,OAP,18,,10.8,Tollcross,12/06/2025,Thursday
+Thursday 12th June,14:30,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,15:30,Gents,25,,15,Tollcross,12/06/2025,Thursday
+Thursday 12th June,16:15,OAP,18,,10.8,Tollcross,12/06/2025,Thursday
+Thursday 12th June,17:00,Student,23,,13.8,Tollcross,12/06/2025,Thursday
+Wednesday 18th June,09:00,None,0,,0,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,10:00,OAP/Clipper,18,,10.8,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,11:00,OAP/Clipper,18,,10.8,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,12:00,Skin Fade + Beard Trim,37,,22.2,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,12:30,Student + Beard Trim,33,,19.8,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,13:00,Gents,25,,15,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,14:00,Skin Fade,27,,16.2,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,14:30,Student,23,,13.8,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,15:00,None,0,,0,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,16:00,OAP/Clipper,18,,10.8,Tollcross,18/06/2025,Wednesday
+Wednesday 18th June,17:00,Gents + Beard Trim,35,,21,Tollcross,18/06/2025,Wednesday
+Saturday 21st June,09:30,None,0,,0,Tollcross,21/06/2025,Saturday
+Saturday 21st June,10:30,None,0,,0,Tollcross,21/06/2025,Saturday
+Saturday 21st June,11:30,Gents,25,,15,Tollcross,21/06/2025,Saturday
+Saturday 21st June,12:15,Gents,25,,15,Tollcross,21/06/2025,Saturday
+Saturday 21st June,12:45,Gents,25,,15,Tollcross,21/06/2025,Saturday
+Saturday 21st June,13:30,None,0,,0,Tollcross,21/06/2025,Saturday
+Saturday 21st June,14:00,Gents,25,,15,Tollcross,21/06/2025,Saturday
+Saturday 21st June,15:00,High School,20,,12,Tollcross,21/06/2025,Saturday
+Saturday 21st June,15:45,OAP/Clipper,18,,10.8,Tollcross,21/06/2025,Saturday
+Saturday 21st June,16:30,None,0,,0,Tollcross,21/06/2025,Saturday
+Monday 23rd June,09:30,Gents,25,,15,Tollcross,23/06/2025,Monday
+Monday 23rd June,10:30,Gents,25,,15,Tollcross,23/06/2025,Monday
+Monday 23rd June,11:00,Skin Fade,27,,16.2,Tollcross,23/06/2025,Monday
+Monday 23rd June,12:00,Gents,25,,15,Tollcross,23/06/2025,Monday
+Monday 23rd June,13:00,Gents,25,,15,Tollcross,23/06/2025,Monday
+Monday 23rd June,13:30,Student Skin Fade,24.5,,14.7,Tollcross,23/06/2025,Monday
+Monday 23rd June,14:30,Gents,25,,15,Tollcross,23/06/2025,Monday
+Monday 23rd June,15:30,OAP/Clipper,18,,10.8,Tollcross,23/06/2025,Monday
+Monday 23rd June,16:45,OAP/Clipper,18,,10.8,Tollcross,23/06/2025,Monday
+Monday 23rd June,17:00,None,0,,0,Tollcross,23/06/2025,Monday
+Wednesday 25th June,09:30,None,0,,0,Tollcross,25/06/2025,Wednesday
+Wednesday 25th June,10:30,Gents,25,,15,Tollcross,25/06/2025,Wednesday
+Wednesday 25th June,11:30,OAP/Clipper + Beard Trim,28,,16.8,Tollcross,25/06/2025,Wednesday
+Wednesday 25th June,12:30,None,0,,0,Tollcross,25/06/2025,Wednesday
+Wednesday 2nd July,09:30,None,0,,0,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,10:30,None,0,,0,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,11:00,Student,23,,13.8,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,11:30,Gents,25,,15,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,12:30,None,0,,0,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,13:00,Skin Fade,27,,16.2,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,14:45,High School,20,,12,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,15:30,Gents,25,,15,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,16:30,None,0,,0,Tollcross,02/07/2025,Wednesday
+Wednesday 2nd July,17:00,Gents,25,,15,Tollcross,02/07/2025,Wednesday
+Saturday 5th July,09:30,None,0,,0,Tollcross,05/07/2025,Saturday
+Saturday 5th July,10:30,None,0,,0,Tollcross,05/07/2025,Saturday
+Saturday 5th July,11:30,None,0,,0,Tollcross,05/07/2025,Saturday
+Saturday 5th July,12:00,High School,20,,12,Tollcross,05/07/2025,Saturday
+Saturday 5th July,12:45,High School,20,,12,Tollcross,05/07/2025,Saturday
+Saturday 5th July,13:30,Gents,25,,15,Tollcross,05/07/2025,Saturday
+Saturday 5th July,14:30,None,0,,0,Tollcross,05/07/2025,Saturday
+Saturday 5th July,15:00,Gents,25,,15,Tollcross,05/07/2025,Saturday
+Saturday 5th July,16:00,Skin Fade + Beard Trim,37,,22.2,Tollcross,05/07/2025,Saturday
+Monday 7th July,09:00,None,0,,0,Tollcross,07/07/2025,Monday
+Monday 7th July,10:00,Gents + Beard Trim,35,,21,Tollcross,07/07/2025,Monday
+Monday 7th July,11:00,Skin Fade,27,,16.2,Tollcross,07/07/2025,Monday
+Monday 7th July,12:00,Gents,25,,15,Tollcross,07/07/2025,Monday
+Monday 7th July,12:30,Gents + Beard Trim,35,,21,Tollcross,07/07/2025,Monday
+Monday 7th July,13:00,None,0,,0,Tollcross,07/07/2025,Monday
+Monday 7th July,14:00,High School,20,,12,Tollcross,07/07/2025,Monday
+Monday 7th July,15:30,Gents,25,,15,Tollcross,07/07/2025,Monday
+Monday 7th July,16:30,Student,23,,13.8,Tollcross,07/07/2025,Monday
+Monday 7th July,17:00,None,0,,0,Tollcross,07/07/2025,Monday
+Wednesday 9th July,09:00,None,0,,0,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,10:00,None,0,,0,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,11:00,None,0,,0,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,12:30,Student Skin Fade,24.5,,14.7,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,13:15,High School,20,,12,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,14:00,None,0,,0,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,15:00,Gents,25,,15,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,16:00,Skin Fade,27,,16.2,Tollcross,09/07/2025,Wednesday
+Wednesday 9th July,17:00,OAP/Clipper,18,,10.8,Tollcross,09/07/2025,Wednesday
+Thursday 10th July,09:15,None,0,,0,Tollcross,10/07/2025,Thursday
+Thursday 10th July,10:30,High School,20,,12,Tollcross,10/07/2025,Thursday
+Thursday 10th July,11:15,Gents,25,,15,Tollcross,10/07/2025,Thursday
+Thursday 10th July,11:45,Gents,25,,15,Tollcross,10/07/2025,Thursday
+Thursday 10th July,12:15,None,0,,0,Tollcross,10/07/2025,Thursday
+Thursday 10th July,13:00,Student Skin Fade,24.5,,14.7,Tollcross,10/07/2025,Thursday
+Thursday 10th July,13:30,Student Skin Fade,24.5,,14.7,Tollcross,10/07/2025,Thursday
+Thursday 10th July,14:15,None,0,,0,Tollcross,10/07/2025,Thursday
+Thursday 10th July,15:00,Student Skin Fade + Beard Trim,34.5,,20.7,Tollcross,10/07/2025,Thursday
+Thursday 10th July,16:00,Gents + Beard Trim,35,,21,Tollcross,10/07/2025,Thursday
+Thursday 10th July,17:15,Gents,25,,15,Tollcross,10/07/2025,Thursday
+Monday 14th July,09:00,None,0,,0,Tollcross,14/07/2025,Monday
+Monday 14th July,10:30,Skin Fade,27,,16.2,Tollcross,14/07/2025,Monday
+Monday 14th July,11:00,None,0,,0,Tollcross,14/07/2025,Monday
+Monday 14th July,12:00,Gents,25,,15,Tollcross,14/07/2025,Monday
+Monday 14th July,12:30,Gents,25,,15,Tollcross,14/07/2025,Monday
+Monday 14th July,13:00,OAP/Clipper,18,1,11.8,Tollcross,14/07/2025,Monday
+Monday 14th July,14:00,None,0,,0,Tollcross,14/07/2025,Monday
+Monday 14th July,15:00,None,0,,0,Tollcross,14/07/2025,Monday
+Monday 14th July,16:20,Gents,25,,15,Tollcross,14/07/2025,Monday
+Monday 14th July,17:00,Gents,25,,15,Tollcross,14/07/2025,Monday
+Monday 14th July,17:30,Student + Beard Trim,33,,19.8,Tollcross,14/07/2025,Monday
+Wednesday 16th July,09:30,None,0,,0,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,10:00,Student Skin Fade + Beard Trim,34.5,,20.7,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,11:00,Clipper,18,2,12.8,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,11:30,Student,23,,13.8,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,12:00,High School,20,,12,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,12:30,Gents,25,,15,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,13:00,Clipper,18,,10.8,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,13:45,Student Skin Fade,24.5,,14.7,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,14:30,Skin Fade,27,,16.2,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,15:15,Gents,25,,15,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,15:45,Kids,17,,10.2,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,16:05,Gents,25,,15,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,16:30,High School,20,,12,Tollcross,16/07/2025,Wednesday
+Wednesday 16th July,17:30,Gents,25,,15,Tollcross,16/07/2025,Wednesday
+Thursday 17th July,09:40,High School,20,,12,Tollcross,17/07/2025,Thursday
+Thursday 17th July,10:35,Gents,25,,15,Tollcross,17/07/2025,Thursday
+Thursday 17th July,11:35,None,0,,0,Tollcross,17/07/2025,Thursday
+Thursday 17th July,12:00,Gents + Beard Trim,35,,21,Tollcross,17/07/2025,Thursday
+Thursday 17th July,13:00,Gents,25,,15,Tollcross,17/07/2025,Thursday
+Thursday 17th July,14:20,Gents,25,10,25,Tollcross,17/07/2025,Thursday
+Thursday 17th July,15:30,Gents,25,5,20,Tollcross,17/07/2025,Thursday
+Thursday 17th July,16:35,None,0,,0,Tollcross,17/07/2025,Thursday
+Thursday 17th July,17:10,Gents,25,,15,Tollcross,17/07/2025,Thursday
+Saturday 19th July,09:45,None,0,,0,Tollcross,19/07/2025,Saturday
+Saturday 19th July,10:45,None,0,,0,Tollcross,19/07/2025,Saturday
+Saturday 19th July,11:45,None,0,,0,Tollcross,19/07/2025,Saturday
+Saturday 19th July,12:10,Skin Fade,27,,16.2,Tollcross,19/07/2025,Saturday
+Saturday 19th July,12:45,Gents,25,,15,Tollcross,19/07/2025,Saturday
+Saturday 19th July,13:50,Friend,20,,12,Tollcross,19/07/2025,Saturday
+Saturday 19th July,14:30,Skin Fade,27,,16.2,Tollcross,19/07/2025,Saturday
+Saturday 19th July,15:00,Gents,25,,15,Tollcross,19/07/2025,Saturday
+Saturday 19th July,15:30,High School,20,,12,Tollcross,19/07/2025,Saturday
+Saturday 19th July,16:00,Gents + Beard Trim,35,,21,Tollcross,19/07/2025,Saturday
+Wednesday 23rd July,09:00,None,0,,0,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,10:00,Clipper,18,,10.8,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,11:00,None,0,,0,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,12:45,Skin Fade,27,,16.2,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,13:00,None,0,,0,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,14:00,Gents,25,,15,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,14:30,Student,23,,13.8,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,15:00,None,0,,0,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,16:00,Gents,25,5,20,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,16:30,High School,20,,12,Tollcross,23/07/2025,Wednesday
+Wednesday 23rd July,17:00,High School,20,,12,Tollcross,23/07/2025,Wednesday
+Thursday 24th July,13:40,None,0,,0,Tollcross,24/07/2025,Thursday
+Thursday 24th July,14:15,Clipper,18,,10.8,Tollcross,24/07/2025,Thursday
+Thursday 24th July,15:20,Student Skin Fade,24.5,,14.7,Tollcross,24/07/2025,Thursday
+Thursday 24th July,16:00,Gents + Beard Trim,35,,21,Tollcross,24/07/2025,Thursday
+Thursday 24th July,16:40,Student,23,,13.8,Tollcross,24/07/2025,Thursday
+Thursday 24th July,17:10,Skin Fade,27,,16.2,Tollcross,24/07/2025,Thursday
+Thursday 24th July,17:40,Gents,25,,15,Tollcross,24/07/2025,Thursday
+Monday 28th July,09:15,None,0,,0,Tollcross,28/07/2025,Monday
+Monday 28th July,10:00,Skin Fade,27,,16.2,Tollcross,28/07/2025,Monday
+Monday 28th July,11:15,None,0,,0,Tollcross,28/07/2025,Monday
+Monday 28th July,12:30,High School,20,,12,Tollcross,28/07/2025,Monday
+Monday 28th July,13:15,None,0,,0,Tollcross,28/07/2025,Monday
+Monday 28th July,14:15,Gents,25,5,20,Tollcross,28/07/2025,Monday
+Monday 28th July,15:30,High School,20,,12,Tollcross,28/07/2025,Monday
+Monday 28th July,16:30,Skin Fade + Beard Trim,37,,22.2,Tollcross,28/07/2025,Monday
+Monday 28th July,17:15,Gents,25,,15,Tollcross,28/07/2025,Monday
+Wednesday 30th July,09:30,None,0,,0,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,10:30,None,0,,0,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,11:30,Student,23,5,18.8,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,12:15,High School,20,,12,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,13:30,Gents,25,,15,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,14:45,Student,23,,13.8,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,15:30,None,0,,0,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,16:15,Skin Fade + Beard Trim,37,,22.2,Tollcross,30/07/2025,Wednesday
+Wednesday 30th July,17:15,Student,23,,13.8,Tollcross,30/07/2025,Wednesday
+Friday 1st August,09:20,None,0,,0,Tollcross,01/08/2025,Friday
+Friday 1st August,10:20,None,0,,0,Tollcross,01/08/2025,Friday
+Friday 1st August,11:00,Beard Trim,10,,6,Tollcross,01/08/2025,Friday
+Friday 1st August,11:20,Gents,25,,15,Tollcross,01/08/2025,Friday
+Friday 1st August,11:50,Skin Fade,27,3,19.2,Tollcross,01/08/2025,Friday
+Friday 1st August,12:20,Clipper + Beard Trim,28,2,18.8,Tollcross,01/08/2025,Friday
+Friday 1st August,12:50,Clipper + Beard Trim,28,4,20.8,Tollcross,01/08/2025,Friday
+Friday 1st August,13:20,Skin Fade,27,,16.2,Tollcross,01/08/2025,Friday
+Friday 1st August,14:50,Gents,25,,15,Tollcross,01/08/2025,Friday
+Friday 1st August,15:30,Skin Fade,27,,16.2,Tollcross,01/08/2025,Friday
+Friday 1st August,16:15,Gents,25,,15,Tollcross,01/08/2025,Friday
+Friday 1st August,16:45,Clipper,18,,10.8,Tollcross,01/08/2025,Friday
+Friday 1st August,17:20,None,0,,0,Tollcross,01/08/2025,Friday
+Saturday 2nd August,09:00,Skin Fade,27,5,21.2,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,09:30,Gents,25,2,17,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,10:30,None,0,,0,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,11:20,Beard Trim,10,,6,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,12:30,None,0,,0,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,13:30,None,0,,0,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,14:20,High School,20,,12,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,14:50,Gents,25,,15,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,15:20,Gents,25,,15,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,15:50,Gents,25,,15,Tollcross,02/08/2025,Saturday
+Saturday 2nd August,16:20,High School,20,,12,Tollcross,02/08/2025,Saturday
+Friday 22nd August,09:10,Skin Fade,27,,16.2,Tollcross,22/08/2025,Friday
+Friday 22nd August,09:40,Gents,25,,15,Tollcross,22/08/2025,Friday
+Friday 22nd August,10:10,None,0,,0,Tollcross,22/08/2025,Friday
+Friday 22nd August,11:10,None,0,,0,Tollcross,22/08/2025,Friday
+Friday 22nd August,12:10,Gents,25,,15,Tollcross,22/08/2025,Friday
+Friday 22nd August,13:15,Gents,25,3,18,Tollcross,22/08/2025,Friday
+Friday 22nd August,13:45,Clipper,18,2,12.8,Tollcross,22/08/2025,Friday
+Friday 22nd August,14:30,Gents,25,,15,Tollcross,22/08/2025,Friday
+Friday 22nd August,15:15,Gents,25,,15,Tollcross,22/08/2025,Friday
+Friday 22nd August,16:10,None,0,,0,Tollcross,22/08/2025,Friday
+Friday 22nd August,17:00,Gents,25,,15,Tollcross,22/08/2025,Friday
+Monday 25th August,09:15,None,0,,0,Tollcross,25/08/2025,Monday
+Monday 25th August,10:20,Beard Trim,12,,7.2,Tollcross,25/08/2025,Monday
+Monday 25th August,11:15,None,0,,0,Tollcross,25/08/2025,Monday
+Monday 25th August,12:15,Gents,25,,15,Tollcross,25/08/2025,Monday
+Monday 25th August,12:45,Skin Fade,27,,16.2,Tollcross,25/08/2025,Monday
+Monday 25th August,13:45,Clipper,18,,10.8,Tollcross,25/08/2025,Monday
+Monday 25th August,14:15,Student,23,,13.8,Tollcross,25/08/2025,Monday
+Monday 25th August,14:45,Student,23,,13.8,Tollcross,25/08/2025,Monday
+Monday 25th August,15:45,Student,23,,13.8,Tollcross,25/08/2025,Monday
+Monday 25th August,16:15,None,0,,0,Tollcross,25/08/2025,Monday
+Monday 25th August,17:15,None,0,,0,Tollcross,25/08/2025,Monday
+Saturday 30th August,09:20,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,09:50,High School,20,,12,Tollcross,30/08/2025,Saturday
+Saturday 30th August,10:15,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,11:00,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,11:30,Gents,25,3,18,Tollcross,30/08/2025,Saturday
+Saturday 30th August,12:00,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,12:45,High School,20,,12,Tollcross,30/08/2025,Saturday
+Saturday 30th August,13:15,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,13:40,High School,20,,12,Tollcross,30/08/2025,Saturday
+Saturday 30th August,14:00,Gents,25,,15,Tollcross,30/08/2025,Saturday
+Saturday 30th August,14:30,Skin Fade,27,,16.2,Tollcross,30/08/2025,Saturday
+Saturday 30th August,14:50,High School,20,,12,Tollcross,30/08/2025,Saturday
+Saturday 30th August,15:10,High School,15,,9,Tollcross,30/08/2025,Saturday
+Saturday 30th August,15:45,Gents + Beard Trim,35,2,23,Tollcross,30/08/2025,Saturday
+Saturday 30th August,16:10,Skin Fade,27,,16.2,Tollcross,30/08/2025,Saturday
+Saturday 30th August,16:30,High School,20,,12,Tollcross,30/08/2025,Saturday
+Saturday 30th August,16:50,High School,20,,12,Tollcross,30/08/2025,Saturday
+Monday 1st September,09:30,Student Skin Fade,24.5,,14.7,Tollcross,01/09/2025,Monday
+Monday 1st September,10:00,None,0,,0,Tollcross,01/09/2025,Monday
+Monday 1st September,11:00,Student,23,,13.8,Tollcross,01/09/2025,Monday
+Monday 1st September,11:30,Beard Trim,12,3,10.2,Tollcross,01/09/2025,Monday
+Monday 1st September,12:00,Gents,25,,15,Tollcross,01/09/2025,Monday
+Monday 1st September,12:30,Student,23,,13.8,Tollcross,01/09/2025,Monday
+Monday 1st September,13:00,Skin Fade,27,,16.2,Tollcross,01/09/2025,Monday
+Monday 1st September,13:30,Gents,25,,15,Tollcross,01/09/2025,Monday
+Monday 1st September,14:00,Student,23,,13.8,Tollcross,01/09/2025,Monday
+Monday 1st September,15:15,Student,23,,13.8,Tollcross,01/09/2025,Monday
+Monday 1st September,15:50,High School,20,,12,Tollcross,01/09/2025,Monday
+Monday 1st September,16:30,Clipper,18,,10.8,Tollcross,01/09/2025,Monday
+Monday 1st September,17:00,None,0,,0,Tollcross,01/09/2025,Monday
+Friday 5th September,09:00,None,0,,0,Tollcross,05/09/2025,Friday
+Friday 5th September,10:00,None,0,,0,Tollcross,05/09/2025,Friday
+Friday 5th September,11:30,Student Skin Fade,24.5,,14.7,Tollcross,05/09/2025,Friday
+Friday 5th September,12:15,Gents,25,,15,Tollcross,05/09/2025,Friday
+Friday 5th September,13:00,Gents,25,,15,Tollcross,05/09/2025,Friday
+Friday 5th September,13:30,Student,23,,13.8,Tollcross,05/09/2025,Friday
+Friday 5th September,14:15,High School,20,,12,Tollcross,05/09/2025,Friday
+Friday 5th September,14:45,Skin Fade,27,,16.2,Tollcross,05/09/2025,Friday
+Friday 5th September,16:30,Gents,25,,15,Tollcross,05/09/2025,Friday
+Friday 5th September,17:30,Student,23,,13.8,Tollcross,05/09/2025,Friday
+Saturday 6th September,08:30,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,08:55,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,09:30,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,10:00,None,0,,0,Marchmont,06/09/2025,Saturday
+Saturday 6th September,11:20,OAP + Beard Trim,28,,16.8,Marchmont,06/09/2025,Saturday
+Saturday 6th September,12:15,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,12:45,Kids,16,2,11.6,Marchmont,06/09/2025,Saturday
+Saturday 6th September,13:20,Gents + Beard Trim,34,1,21.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,14:10,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,15:00,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,15:45,Gents,24,,14.4,Marchmont,06/09/2025,Saturday
+Saturday 6th September,16:00,None,0,,0,Marchmont,06/09/2025,Saturday
+Monday 8th September,09:30,Gents + Beard Trim,35,,21,Tollcross,08/09/2025,Monday
+Monday 8th September,10:10,Clipper,18,2,12.8,Tollcross,08/09/2025,Monday
+Monday 8th September,11:00,None,0,,0,Tollcross,08/09/2025,Monday
+Monday 8th September,12:00,Gents,25,,15,Tollcross,08/09/2025,Monday
+Monday 8th September,12:30,OAP,18,0.5,11.3,Tollcross,08/09/2025,Monday
+Monday 8th September,13:00,Skin Fade,27,,16.2,Tollcross,08/09/2025,Monday
+Monday 8th September,14:45,Student,23,,13.8,Tollcross,08/09/2025,Monday
+Monday 8th September,15:30,High School,20,,12,Tollcross,08/09/2025,Monday
+Monday 8th September,16:00,High School,20,,12,Tollcross,08/09/2025,Monday
+Monday 8th September,16:45,Gents,25,,15,Tollcross,08/09/2025,Monday
+Monday 8th September,17:20,Gents,25,,15,Tollcross,08/09/2025,Monday
+Friday 12th September,09:00,Gents,24,1,15.4,Marchmont,12/09/2025,Friday
+Friday 12th September,10:00,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,11:10,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,12:15,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,13:00,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,13:45,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,14:15,High School,20,,12,Marchmont,12/09/2025,Friday
+Friday 12th September,15:00,Gents,24,,14.4,Marchmont,12/09/2025,Friday
+Friday 12th September,16:00,Gents + Beard Trim,34,,20.4,Marchmont,12/09/2025,Friday
+Friday 12th September,17:00,Kids,16,,9.6,Marchmont,12/09/2025,Friday
+Friday 12th September,17:30,Gents,24,1,15.4,Marchmont,12/09/2025,Friday
+Saturday 13th September,08:55,Gents,24,4,18.4,Marchmont,13/09/2025,Saturday
+Saturday 13th September,09:30,Kids,16,,9.6,Marchmont,13/09/2025,Saturday
+Saturday 13th September,10:00,Kids,16,,9.6,Marchmont,13/09/2025,Saturday
+Saturday 13th September,10:30,Kids,16,,9.6,Marchmont,13/09/2025,Saturday
+Saturday 13th September,11:00,Gents,24,,14.4,Marchmont,13/09/2025,Saturday
+Saturday 13th September,11:30,Gents,24,,14.4,Marchmont,13/09/2025,Saturday
+Saturday 13th September,12:45,High School,19,,11.4,Marchmont,13/09/2025,Saturday
+Saturday 13th September,13:00,None,0,,0,Marchmont,13/09/2025,Saturday
+Saturday 13th September,14:00,None,0,,0,Marchmont,13/09/2025,Saturday
+Saturday 13th September,15:00,Kids,16,,9.6,Marchmont,13/09/2025,Saturday
+Saturday 13th September,15:20,Gents,24,,14.4,Marchmont,13/09/2025,Saturday
+Saturday 13th September,16:00,None,0,,0,Marchmont,13/09/2025,Saturday
+Monday 15th September,12:45,Clipper,18,,10.8,Marchmont,15/09/2025,Monday
+Monday 15th September,13:10,Kids,16,,9.6,Marchmont,15/09/2025,Monday
+Monday 15th September,14:00,None,0,,0,Marchmont,15/09/2025,Monday
+Monday 15th September,15:15,Gents,24,6,20.4,Marchmont,15/09/2025,Monday
+Monday 15th September,16:05,Clipper,18,,10.8,Marchmont,15/09/2025,Monday
+Monday 15th September,16:30,Student,22,,13.2,Marchmont,15/09/2025,Monday
+Tuesday 16th September,09:00,None,0,,0,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,10:30,Skin Fade,27,,16.2,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,10:55,Beard Trim,12,,7.2,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,11:15,Gents,25,,15,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,11:40,Gents,25,2,17,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,12:15,Discount,15,,9,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,13:15,Student,23,,13.8,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,13:45,Student,23,,13.8,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,14:45,OAP,18,2,12.8,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,15:20,OAP,18,,10.8,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,15:45,Student,23,,13.8,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,16:30,Student Skin Fade,24.5,,14.7,Tollcross,16/09/2025,Tuesday
+Tuesday 16th September,17:15,Gents,25,,15,Tollcross,16/09/2025,Tuesday
+Wednesday 17th September,09:15,Beard Trim,10,,6,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,10:30,Discount,15,,9,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,10:50,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,11:30,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,12:15,Gents,25,,15,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,13:20,Gents,25,,15,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,14:10,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,14:45,Skin Fade,27,,16.2,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,15:15,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,16:15,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,16:55,Student,23,,13.8,Tollcross,17/09/2025,Wednesday
+Wednesday 17th September,17:30,Gents,25,,15,Tollcross,17/09/2025,Wednesday
+Thursday 18th September,12:45,Gents,25,,15,Tollcross,18/09/2025,Thursday
+Thursday 18th September,13:15,Gents,25,,15,Tollcross,18/09/2025,Thursday
+Thursday 18th September,14:25,Clipper + Beard Trim,30,,18,Tollcross,18/09/2025,Thursday
+Thursday 18th September,15:15,Gents,25,3,18,Tollcross,18/09/2025,Thursday
+Thursday 18th September,15:45,High School,20,,12,Tollcross,18/09/2025,Thursday
+Thursday 18th September,16:10,High School,20,,12,Tollcross,18/09/2025,Thursday
+Thursday 18th September,16:40,High School,20,,12,Tollcross,18/09/2025,Thursday
+Thursday 18th September,17:30,Gents,25,,15,Tollcross,18/09/2025,Thursday
+Friday 19th September,09:15,Gents,25,,15,Tollcross,19/09/2025,Friday
+Friday 19th September,10:00,None,0,,0,Tollcross,19/09/2025,Friday
+Friday 19th September,11:00,Gents,25,,15,Tollcross,19/09/2025,Friday
+Friday 19th September,11:50,Student Skin Fade,24.5,,14.7,Tollcross,19/09/2025,Friday
+Friday 19th September,12:15,Skin Fade,27,,16.2,Tollcross,19/09/2025,Friday
+Friday 19th September,12:40,Clipper,18,,10.8,Tollcross,19/09/2025,Friday
+Friday 19th September,13:00,Gents,25,,15,Tollcross,19/09/2025,Friday
+Friday 19th September,13:20,Gents,25,,15,Tollcross,19/09/2025,Friday
+Friday 19th September,14:00,Gents,25,,15,Tollcross,19/09/2025,Friday
+Friday 19th September,14:50,Student Skin Fade,24.5,,14.7,Tollcross,19/09/2025,Friday
+Friday 19th September,15:40,High School,20,,12,Tollcross,19/09/2025,Friday
+Friday 19th September,16:10,High School,20,,12,Tollcross,19/09/2025,Friday
+Friday 19th September,16:45,High School,20,,12,Tollcross,19/09/2025,Friday
+Saturday 20th September,09:15,Gents,25,3,18,Tollcross,20/09/2025,Saturday
+Saturday 20th September,09:40,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,10:00,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,10:20,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,11:55,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,12:25,Kids,17,3,13.2,Tollcross,20/09/2025,Saturday
+Saturday 20th September,12:50,Skin Fade,27,3,19.2,Tollcross,20/09/2025,Saturday
+Saturday 20th September,13:30,Student,23,,13.8,Tollcross,20/09/2025,Saturday
+Saturday 20th September,14:00,Student,23,,13.8,Tollcross,20/09/2025,Saturday
+Saturday 20th September,14:50,Clipper,18,2,12.8,Tollcross,20/09/2025,Saturday
+Saturday 20th September,15:10,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,15:40,Gents,25,,15,Tollcross,20/09/2025,Saturday
+Saturday 20th September,16:05,Student,23,,13.8,Tollcross,20/09/2025,Saturday
+Tuesday 23rd September,09:00,None,0,,0,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,10:00,None,0,,0,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,11:00,None,0,,0,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,12:25,Gents,25,,15,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,12:45,Gents,25,,15,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,13:00,None,0,,0,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,14:30,Student + Beard Trim,33,,19.8,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,15:00,None,0,,0,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,16:20,Beard Trim,12,,7.2,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,16:55,Student Skin Fade,24.5,,14.7,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,17:15,High School,20,,12,Tollcross,23/09/2025,Tuesday
+Tuesday 23rd September,17:45,Gents,25,,15,Tollcross,23/09/2025,Tuesday
+Wednesday 24th September,09:00,None,0,,0,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,10:15,Student Skin Fade,24.5,,14.7,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,10:50,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,11:40,Clipper,18,2,12.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,12:10,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,12:30,Skin Fade,27,,16.2,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,13:00,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,13:30,Student,23,,13.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,14:10,Clipper,18,,10.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,14:25,Clipper,18,,10.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,14:45,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,15:10,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,15:40,Student,23,,13.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,16:05,Clipper + Beard Trim,28,,16.8,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,17:15,Gents,25,,15,Tollcross,24/09/2025,Wednesday
+Wednesday 24th September,17:50,Student,23,,13.8,Tollcross,24/09/2025,Wednesday
+Thursday 25th September,13:25,Gents,25,,15,Tollcross,25/09/2025,Thursday
+Thursday 25th September,14:00,Gents,25,,15,Tollcross,25/09/2025,Thursday
+Thursday 25th September,15:10,Skin Fade,27,3,19.2,Tollcross,25/09/2025,Thursday
+Thursday 25th September,15:55,Student,23,,13.8,Tollcross,25/09/2025,Thursday
+Thursday 25th September,16:30,Gents,25,,15,Tollcross,25/09/2025,Thursday
+Thursday 25th September,17:20,Gents,25,,15,Tollcross,25/09/2025,Thursday
+Friday 26th September,09:00,None,0,,0,Tollcross,26/09/2025,Friday
+Friday 26th September,10:30,Gents,25,,15,Tollcross,26/09/2025,Friday
+Friday 26th September,11:00,None,0,,0,Tollcross,26/09/2025,Friday
+Friday 26th September,12:00,None,0,,0,Tollcross,26/09/2025,Friday
+Friday 26th September,13:30,Student,23,,13.8,Tollcross,26/09/2025,Friday
+Friday 26th September,14:15,High School,20,,12,Tollcross,26/09/2025,Friday
+Friday 26th September,14:55,Kids,17,,10.2,Tollcross,26/09/2025,Friday
+Friday 26th September,15:00,None,0,,0,Tollcross,26/09/2025,Friday
+Friday 26th September,16:00,Student,23,,13.8,Tollcross,26/09/2025,Friday
+Friday 26th September,16:40,OAP,18,,10.8,Tollcross,26/09/2025,Friday
+Friday 26th September,17:00,Gents,25,,15,Tollcross,26/09/2025,Friday
+Saturday 27th September,09:00,None,0,,0,Tollcross,27/09/2025,Saturday
+Saturday 27th September,10:30,Gents,25,,15,Tollcross,27/09/2025,Saturday
+Saturday 27th September,11:30,Clipper,18,,10.8,Tollcross,27/09/2025,Saturday
+Saturday 27th September,12:00,None,0,,0,Tollcross,27/09/2025,Saturday
+Saturday 27th September,13:30,Gents,25,,15,Tollcross,27/09/2025,Saturday
+Saturday 27th September,13:55,Kids,17,,10.2,Tollcross,27/09/2025,Saturday
+Saturday 27th September,14:15,Gents,25,,15,Tollcross,27/09/2025,Saturday
+Saturday 27th September,14:40,Gents + Beard Trim,35,,21,Tollcross,27/09/2025,Saturday
+Saturday 27th September,15:40,Gents,25,,15,Tollcross,27/09/2025,Saturday
+Saturday 27th September,16:10,Gents,25,,15,Tollcross,27/09/2025,Saturday
+Tuesday 30th September,10:00,None,0,,0,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,11:00,None,0,,0,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,12:10,Clipper,18,,10.8,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,13:00,Gents + Beard Trim,35,,21,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,13:45,Student Skin Fade,24.5,,14.7,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,14:15,Student,23,,13.8,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,14:45,Student,23,,13.8,Tollcross,30/09/2025,Tuesday
+Tuesday 30th September,15:30,Friend,20,,12,Tollcross,30/09/2025,Tuesday
+Wednesday 1st October,09:00,Beard Trim,10,5,11,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,10:00,None,0,,0,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,11:00,None,0,,0,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,12:50,OAP,18,,10.8,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,13:00,None,0,,0,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,14:40,Student,23,,13.8,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,15:45,Skin Fade,27,,16.2,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,16:00,None,0,,15,Tollcross,01/10/2025,Wednesday
+Wednesday 1st October,17:00,Clipper,18,1,11.8,Tollcross,01/10/2025,Wednesday
+Friday 3rd October,10:25,Gents,25,,15,Tollcross,03/10/2025,Friday
+Friday 3rd October,11:20,Skin Fade,27,,16.2,Tollcross,03/10/2025,Friday
+Friday 3rd October,11:55,Gents,25,,15,Tollcross,03/10/2025,Friday
+Friday 3rd October,12:30,Skin Fade,27,,16.2,Tollcross,03/10/2025,Friday
+Friday 3rd October,13:15,Gents,25,,15,Tollcross,03/10/2025,Friday
+Friday 3rd October,14:30,Gents,25,,15,Tollcross,03/10/2025,Friday
+Friday 3rd October,14:55,High School,20,,12,Tollcross,03/10/2025,Friday
+Friday 3rd October,15:45,Brother,0,,0,Tollcross,03/10/2025,Friday
+Friday 3rd October,16:00,None,0,,0,Tollcross,03/10/2025,Friday
+Friday 3rd October,17:00,None,0,,0,Tollcross,03/10/2025,Friday
+Saturday 4th October,08:45,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,09:45,Gents,24,3,17.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,10:30,High School,19,,11.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,10:50,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,11:20,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,11:45,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,12:10,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,13:00,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,13:40,Gents,24,1,15.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,14:15,Beard Trim,10,,6,Marchmont,04/10/2025,Saturday
+Saturday 4th October,14:30,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,15:30,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Saturday 4th October,16:30,Gents,24,,14.4,Marchmont,04/10/2025,Saturday
+Friday 10th October,09:30,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,10:00,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,10:30,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,11:00,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,11:30,Student,23,,13.8,Tollcross,10/10/2025,Friday
+Friday 10th October,12:00,Student,23,,13.8,Tollcross,10/10/2025,Friday
+Friday 10th October,12:30,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,13:00,Skin Fade,27,,16.2,Tollcross,10/10/2025,Friday
+Friday 10th October,13:30,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,13:50,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,14:15,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,14:40,Clipper,18,2,12.8,Tollcross,10/10/2025,Friday
+Friday 10th October,14:50,Gents + Beard Trim,35,,21,Tollcross,10/10/2025,Friday
+Friday 10th October,15:20,Gents,25,,15,Tollcross,10/10/2025,Friday
+Friday 10th October,16:00,High School,20,,12,Tollcross,10/10/2025,Friday
+Friday 10th October,16:30,Student,23,,13.8,Tollcross,10/10/2025,Friday
+Friday 10th October,17:00,Student,23,,13.8,Tollcross,10/10/2025,Friday
+Friday 10th October,17:30,Gents + Beard Trim,35,,21,Tollcross,10/10/2025,Friday
+Saturday 11th October,10:40,Gents,25,5,20,Tollcross,11/10/2025,Saturday
+Saturday 11th October,11:00,None,0,,0,Tollcross,11/10/2025,Saturday
+Saturday 11th October,12:15,Beard Trim,12,,7.2,Tollcross,11/10/2025,Saturday
+Saturday 11th October,13:15,High School,20,,12,Tollcross,11/10/2025,Saturday
+Saturday 11th October,14:00,Gents,25,,15,Tollcross,11/10/2025,Saturday
+Saturday 11th October,14:30,Gents,25,,15,Tollcross,11/10/2025,Saturday
+Saturday 11th October,14:50,Gents,25,,15,Tollcross,11/10/2025,Saturday
+Saturday 11th October,15:20,Gents,25,5,20,Tollcross,11/10/2025,Saturday
+Saturday 11th October,16:00,Gents,25,,15,Tollcross,11/10/2025,Saturday
+Saturday 11th October,16:30,Gents,25,,15,Tollcross,11/10/2025,Saturday
+Thursday 16th October,09:00,None,0,,0,Tollcross,16/10/2025,Thursday
+Thursday 16th October,10:00,None,0,,0,Tollcross,16/10/2025,Thursday
+Thursday 16th October,11:00,None,0,,0,Tollcross,16/10/2025,Thursday
+Thursday 16th October,12:10,High School,20,,12,Tollcross,16/10/2025,Thursday
+Thursday 16th October,13:00,None,0,,0,Tollcross,16/10/2025,Thursday
+Thursday 16th October,14:00,Skin Fade,27,,16.2,Tollcross,16/10/2025,Thursday
+Thursday 16th October,14:30,Student Skin Fade,24.5,,14.7,Tollcross,16/10/2025,Thursday
+Thursday 16th October,15:15,Gents,25,,15,Tollcross,16/10/2025,Thursday
+Thursday 16th October,16:30,Student,23,,13.8,Tollcross,16/10/2025,Thursday
+Friday 17th October,11:00,None,0,,0,Tollcross,17/10/2025,Friday
+Friday 17th October,12:20,Gents,25,,15,Tollcross,17/10/2025,Friday
+Friday 17th October,13:00,None,0,,0,Tollcross,17/10/2025,Friday
+Friday 17th October,14:15,Gents + Beard Trim,35,5,26,Tollcross,17/10/2025,Friday
+Friday 17th October,15:00,None,0,,0,Tollcross,17/10/2025,Friday
+Friday 17th October,16:00,None,0,,0,Tollcross,17/10/2025,Friday
+Friday 17th October,17:00,None,0,,0,Tollcross,17/10/2025,Friday
+Saturday 18th October,08:30,None,0,,0,Marchmont,18/10/2025,Saturday
+Saturday 18th October,09:00,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,09:30,Kids,16,,9.6,Marchmont,18/10/2025,Saturday
+Saturday 18th October,10:30,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,11:00,Kids,16,,9.6,Marchmont,18/10/2025,Saturday
+Saturday 18th October,11:30,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,12:00,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,12:30,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,13:00,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,14:15,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,15:50,Gents,24,,14.4,Marchmont,18/10/2025,Saturday
+Saturday 18th October,16:00,None,0,,0,Marchmont,18/10/2025,Saturday
