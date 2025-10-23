@@ -10,6 +10,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sqlite3
+import matplotlib.dates as mdates
+
 
 df = pd.read_csv('Downloads/Barbers.csv')
 
@@ -309,21 +311,26 @@ plt.show()
 # and decline.
 # This will loop over each location, although will not create two plots for each
 # because it is important to see the plots on top of each other for comparison.
+
 for loc, data in df.groupby("Location"):
     daily_takehome = data.groupby("Date")["Take Home"].sum().reset_index()
-    # Find the rolling average in order to create the line of best fit
     daily_takehome["Rolling"] = daily_takehome["Take Home"].rolling(7, min_periods=1).mean()
 
-    # Plot the datapoints
     plt.scatter(daily_takehome["Date"], daily_takehome["Take Home"], label=loc, alpha=0.5)
-    # Plot the lines of best fit
     plt.plot(daily_takehome["Date"], daily_takehome["Rolling"], label=loc)
 
 plt.legend()
 plt.title("Daily Take Home by Location")
 plt.xlabel("Date")
 plt.ylabel("Take Home (£)")
+
+# Format x-axis
+plt.gca().xaxis.set_major_locator(mdates.MonthLocator())
+plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
+plt.gcf().autofmt_xdate()
+
 plt.show()
+
 
 
 
